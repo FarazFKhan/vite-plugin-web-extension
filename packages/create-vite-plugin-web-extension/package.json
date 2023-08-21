@@ -4,12 +4,12 @@
   "version": "1.0.3",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/aklinker1/vite-plugin-web-extension",
+    "url": "https://github.com/FarazFKhan/vite-plugin-web-extension",
     "directory": "packages/create-vite-plugin-web-extension"
   },
   "type": "module",
   "bin": {
-    "create-vite-plugin-web-extension": "dist/index.js"
+    "create-react-web-extension": "dist/index.js"
   },
   "files": [
     "dist"
